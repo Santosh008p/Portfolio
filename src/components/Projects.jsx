@@ -8,41 +8,46 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 const projects = [
-  {
-    title: "Malicious URL Detection",
+    /*{
+  title: "Malicious URL Detection",
     description:
       "Chrome extension using Python, scikit-learn, Pandas, Numpy to detect malicious URLs with Random Forest & XGBoost.",
     image: "/malicious-url.png",
     details: "Full details about the project, implementation steps, challenges faced, and outcome.",
-  },
+  },*/
   {
     title: "StockInfo",
     description:
       "Responsive web app displaying NEPSE stocks data and interactive charts.",
     image: "/stockinfo.png",
-    details: "Full details about the project, APIs used, chart libraries, and responsiveness.",
+   // details: "Full details about the project, APIs used, chart libraries, and responsiveness.",
   },
-  {
+  /*{
     title: "SportsYard",
     description:
       "Full Stack E-commerce platform for sports products with cart, checkout, and user authentication.",
     image: "/sportsyard.png",
     details: "Full details about backend, database, authentication, and payment integration.",
-  },
+  },*/
   {
     title: "QR Generator",
     description: "Generate QR codes dynamically from any input text.",
-    image: "/projects/qr-generator.png",
+    image: "/QrGenerator.png",
   },
   {
     title: "Recipe Finder",
     description: "Search and discover recipes using an external API.",
-    image: "/projects/recipe-finder.png",
+    image: "/recipie.png",
   },
   {
     title: "Movie Explorer",
     description: "Search for movies, view details and ratings using an API.",
-    image: "/projects/movie-explorer.png",
+    image: "/movie.png",
+  },
+  {
+    title:"ToDo App",
+    description: "It is an simple todo app made using react with local storage",
+    image: "/todo.png",
   },
 ];
 
