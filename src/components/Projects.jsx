@@ -52,7 +52,7 @@ const projects = [
   {
     title:"Brain Buzz",
     description: "It is a simple quiz app where users can select three difficulty modes: easy,medium and difficult. I made this webapp using react ",
-    image: "/.quiz.png",
+    image: "/quiz.png",
   },
 ];
 
