@@ -46,8 +46,13 @@ const projects = [
   },
   {
     title:"ToDo App",
-    description: "It is an simple todo app made using react with local storage",
+    description: "It is a simple todo app made using react with local storage",
     image: "/todo.png",
+  },
+  {
+    title:"Brain Buzz",
+    description: "It is a simple quiz app where users can select three difficulty modes: easy,medium and difficult. I made this webapp using react ",
+    image: "/.quiz.png",
   },
 ];
 
